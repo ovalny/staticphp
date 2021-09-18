@@ -18,5 +18,3 @@ For beauty, remembering links, convenience, and even security (there is a .htacc
 ```
 (or check it in example website)
 5. Make sure everything works correctly. Try all the pages you have. And also try to go to invalid links in order to make sure whether it is correct or not.
-
-**! THIS REPOSITORY IS IN BETA !**
