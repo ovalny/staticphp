@@ -17,4 +17,5 @@ For beauty, remembering links, convenience, and even security (there is a .htacc
 <?php require_once($_SERVER['DOCUMENT_ROOT'] . "/systemfiles/header.php"); ?>
 ```
 (or check it in example website)
+
 5. Make sure everything works correctly. Try all the pages you have. And also try to go to invalid links in order to make sure whether it is correct or not.
