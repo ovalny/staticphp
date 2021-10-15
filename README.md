@@ -1,7 +1,7 @@
 # staticphp
 ![](https://img.shields.io/github/stars/semen-person/staticphp.svg) ![](https://img.shields.io/github/forks/semen-person/staticphp.svg) ![](https://img.shields.io/github/tag/semen-person/staticphp.svg) ![](https://img.shields.io/github/release/semen-person/staticphp.svg) ![](https://img.shields.io/github/issues/semen-person/staticphp.svg) ![](https://img.shields.io/bower/semen-person/staticphp.svg)
 
- A PHP application that sets up routing for a static site.
+ Some piece of useless PHP application that sets up routing for a static site.
  
  **Example**: was "example.com/contacts.html", became "example.com/contacts".
  
